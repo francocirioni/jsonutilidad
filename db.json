@@ -1,8 +1,9 @@
 {
   "programas": [
     {
-      "nombre": "1",
-      "icono": "https://i.postimg.cc/c1f5HYnf/Isotipo-unvm-removebg-preview.png",
+      
+      "icono": "https://i.postimg.cc/W3HNjbhD/application-software-win-windows-windows8-1867.png",
+      "nombre": "1",      
       "version": "1.0",
       "fondo": "asdasda",
       "descripcion": "Descripción del producto",
@@ -10,8 +11,8 @@
       "otro": "Otro dato"
     },
     {
-      "nombre": "2",
-      "icono": "icono.png",
+      "icono": "https://i.postimg.cc/633WDG5J/brave-browser-logo-icon-153013.png",
+      "nombre": "2",      
       "version": "1.0",
       "fondo": "fondo.png",
       "descripcion": "Descripción del producto",
@@ -19,8 +20,10 @@
       "otro": "Otro dato"
     },
     {
-      "nombre": "3",
-      "icono": "icono.png",
+
+
+        "icono": "icono.png",
+      "nombre": "3",    
       "version": "1.0",
       "fondo": "fondo.png",
       "descripcion": "Descripción del producto",
