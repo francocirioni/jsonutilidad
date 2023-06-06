@@ -2,9 +2,9 @@
   "programas": [
     {
       "nombre": "1",
-      "icono": "icono.png",
+      "icono": "https://i.postimg.cc/c1f5HYnf/Isotipo-unvm-removebg-preview.png",
       "version": "1.0",
-      "fondo": "https://i.postimg.cc/c1f5HYnf/Isotipo-unvm-removebg-preview.png",
+      "fondo": "asdasda",
       "descripcion": "Descripción del producto",
       "url": "https://ejemplo.com",
       "otro": "Otro dato"
