@@ -17,6 +17,15 @@
       "descripcion": "Descripción del producto",
       "url": "https://ejemplo.com",
       "otro": "Otro dato"
+    },
+    {
+      "nombre": "3",
+      "icono": "icono.png",
+      "version": "1.0",
+      "fondo": "fondo.png",
+      "descripcion": "Descripción del producto",
+      "url": "https://ejemplo.com",
+      "otro": "Otro dato"
     }
   ]
 }
