@@ -1,9 +1,14 @@
 {
-    "nombre": "Nombre del producto",
+    "programas": [
+   "nombre": "Nombre del producto",
   "icono": "icono.png",
   "version": "1.0",
   "fondo": "fondo.png",
   "descripcion": "Descripción del producto",
   "url": "https://ejemplo.com",
   "otro": "Otro dato"
+          ]
+
+        
 }
+
