@@ -1,4 +1,3 @@
-
 {
   "programas": [
     {
@@ -10,15 +9,14 @@
       "url": "https://ejemplo.com",
       "otro": "Otro dato"
     },
-     {
-       "nombre": "Nombre del producto2",
+    {
+      "nombre": "Nombre del producto2",
       "icono": "icono.png",
       "version": "1.0",
       "fondo": "fondo.png",
       "descripcion": "Descripción del producto",
       "url": "https://ejemplo.com",
       "otro": "Otro dato"
-        
-      }
+    }
   ]
 }
