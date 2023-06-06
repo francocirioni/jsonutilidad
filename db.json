@@ -1,19 +1,9 @@
 {
-   "envios": [
-      {
-         "numero_envio": "123456",
-         "estado": "En tránsito",
-         "fecha_entrega": null
-      },
-      {
-         "numero_envio": "789012",
-         "estado": "Entregado",
-         "fecha_entrega": "2021-10-05"
-      },
-      {
-         "numero_envio": "345678",
-         "estado": "En espera de recolección",
-         "fecha_entrega": null
-      }
-   ]
+    "nombre": "Nombre del producto",
+  "icono": "icono.png",
+  "version": "1.0",
+  "fondo": "fondo.png",
+  "descripcion": "Descripción del producto",
+  "url": "https://ejemplo.com",
+  "otro": "Otro dato"
 }
