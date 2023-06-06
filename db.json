@@ -1,7 +1,7 @@
 {
   "programas": [
     {
-      "nombre": "Nombre del producto",
+      "nombre": "1",
       "icono": "icono.png",
       "version": "1.0",
       "fondo": "fondo.png",
@@ -10,7 +10,7 @@
       "otro": "Otro dato"
     },
     {
-      "nombre": "Nombre del producto2",
+      "nombre": "2",
       "icono": "icono.png",
       "version": "1.0",
       "fondo": "fondo.png",
