@@ -1,9 +1,9 @@
-
-[
+{
+  "programas": [
     {
-       "id": 1,
+      "id": 1,
       "icono": "https://i.postimg.cc/c1QrC5kC/Windows-Phone-icon-icons-com-66782.png",
-      "nombre": "1casd",      
+      "nombre": "1casd",
       "version": "1.0",
       "fondo": "asdasda",
       "descripcion": "Descripción del producto",
@@ -11,9 +11,9 @@
       "otro": "Otro dato"
     },
     {
-         "id": 2,
+      "id": 2,
       "icono": "https://i.postimg.cc/633WDG5J/brave-browser-logo-icon-153013.png",
-      "nombre": "2",      
+      "nombre": "2",
       "version": "1.0",
       "fondo": "fondo.png",
       "descripcion": "Descripción del producto",
@@ -21,10 +21,9 @@
       "otro": "Otro dato"
     },
     {
-
-     "id": 3,
-        "icono": "https://i.postimg.cc/VvB6hd0n/Google-Chrome-icon-icons-com-66794.png",
-      "nombre": "3",    
+      "id": 3,
+      "icono": "https://i.postimg.cc/VvB6hd0n/Google-Chrome-icon-icons-com-66794.png",
+      "nombre": "3",
       "version": "1.0",
       "fondo": "fondo.png",
       "descripcion": "Descripción del producto",
@@ -32,4 +31,5 @@
       "otro": "Otro dato"
     }
   ]
+}
 
